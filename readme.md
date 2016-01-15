@@ -2,6 +2,8 @@
 
 > Random text meme from ACG world
 
+![preview](http://i.imgur.com/0M5XsSA.png)
+
 ## Install
 
 ```
