@@ -8,5 +8,7 @@ module.exports.h = h
 
 function h() {
   return fetch('http://api.hitokoto.us/rand')
-    .then(data => data.json())
+    .then(function (data) {
+      return data.json()
+    })
 }
