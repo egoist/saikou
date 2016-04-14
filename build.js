@@ -11,7 +11,7 @@ const fn = (url) => {
     .then(data => {
       const $ = cheerio.load(data)
       const result = []
-      $('.navbox-list').each(function () {
+      $('.navbox').first().find('.navbox-list').each(function () {
         const a = $(this).find('a')
         a.each(function () {
           const t = $(this).text()
