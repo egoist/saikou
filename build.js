@@ -1,7 +1,7 @@
 'use strict'
 const fs = require('fs')
 const cheerio = require('cheerio')
-const fetch = require('node-fetch')
+const fetch = require('isomorphic-fetch')
 const lodash = require('lodash')
 
 const fn = (url) => {
