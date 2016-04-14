@@ -1,4 +1,4 @@
-# saikou [![Build Status](https://travis-ci.org/egoist/saikou.svg?branch=master)](https://travis-ci.org/egoist/saikou)
+# saikou [![npm](https://img.shields.io/npm/v/saikou.svg?maxAge=2592000)](https://github.com/egoist/saikou) [![Build Status](https://travis-ci.org/egoist/saikou.svg?branch=master)](https://travis-ci.org/egoist/saikou)
 
 > 700 Random text memes from ACG world
 
